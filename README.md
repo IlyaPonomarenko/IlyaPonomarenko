@@ -1,5 +1,6 @@
-# About Me:
-Hello, I'm Ilya<br>A Full-stack developer in the making<br>Looking for an internship!
+<h1 align="left">Hello, I'm Ilya:</h3>
+
+<br>A Full-stack developer in the making<br>Looking for an internship!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
