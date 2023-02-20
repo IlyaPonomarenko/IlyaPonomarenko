@@ -103,3 +103,8 @@ height="40"/>
  </a>
 
  </p>
+ <h3 align="left">Social Media</h3>
+ <a href="https://www.linkedin.com/in/ilia-ponomarenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&emsp;
+ <a href="https://www.facebook.com/ilya.ponomarenko.75/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+&emsp;
