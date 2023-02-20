@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Ilya:</h3>
+<h1 align="left">Hello, I'm Ilia</h3>
 
 <br>A Full-stack developer in the making<br>Looking for an internship!
 
