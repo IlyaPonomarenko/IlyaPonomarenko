@@ -66,7 +66,7 @@ alt="sass"
 width="40" 
 height="40"/> 
 </a>
-<h4 align="left">CI/CD</h3>
+<h4 align="left">Various tools</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
 alt="docker" 
