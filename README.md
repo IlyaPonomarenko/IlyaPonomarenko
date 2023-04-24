@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Ilia</h3>
 
-<br>A Full-stack developer in the making<br>Looking for an internship!
+<br>A Full-stack developer in the making
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
