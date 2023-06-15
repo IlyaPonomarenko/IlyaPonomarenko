@@ -4,8 +4,6 @@
 - Ask me about anything, I am happy to help;
 - How to reach me: ponomarenkoilya989@gmail.com;
 
-I'm currently working as a Full-Stack dev.
-
 <details>
 <summary>⚡️ Here are my stats! </summary>
 <br />
