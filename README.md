@@ -10,8 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPonomarenko&layout=compact&hide=css,html&theme=onedark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IlyaPonomarenko&theme=onedark)](https://git.io/streak-stats)
-
 </details>
 
  </p>
