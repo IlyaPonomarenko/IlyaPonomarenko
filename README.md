@@ -8,7 +8,7 @@
 <summary>⚡️ Here are my stats! </summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPonomarenko&layout=compact&hide=css,html&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anssip&layout=compact&hide=css,html&theme=onedark)
 
 </details>
 
